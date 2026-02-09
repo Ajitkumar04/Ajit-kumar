@@ -1,2 +1,3 @@
 # Ajit-kumar
-this is my first repository.welocme
+this is my first repository.
+ather Ajit kumar
